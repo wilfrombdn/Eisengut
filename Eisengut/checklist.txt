@@ -1,0 +1,63 @@
+✅ Core Foundation (Start First)
+User Login (✅ already done)
+
+Main UI Shell / Menu System (✅ done)
+
+Repair Intake Form – input customer/device/problem
+
+Open Repair Ticket List – table view of active repairs
+
+Customer Database – store/search customers
+
+Invoice Generator – per job, with tax and totals
+
+Quote Builder – add/edit/remove service estimates
+
+Completed Repairs Log – archive of finished jobs
+
+Simple Inventory Tracker – part name, quantity, reorder point
+
+Basic Staff Directory – tech name, role, ID, status
+
+⚙️ Functional Expansion
+Payment Tracking – mark invoices as paid/unpaid
+
+Warranty Tracker – link repairs to warranty periods
+
+Assign Technicians to Jobs – per ticket or intake
+
+Job Notes / Progress Updates – timestamped logs
+
+Reports Module – daily/weekly summaries, revenue
+
+Label Generator – create printable intake labels
+
+Manufacturer/Device Lookup – autofill form options
+
+Backup/Restore Feature – auto save or manual export
+
+Hours Worked Tracker – manual or automated logs
+
+Repair Guide Uploader – PDF/image viewer per device
+
+🧹 Polish & Admin
+Settings Panel – business name, taxes, theme
+
+Admin Panel – add/remove users, reset data
+
+Search/Filter for Tables – dynamic sorting
+
+Dark Mode Toggle (optional styling feature)
+
+User Manual / Help Viewer – offline doc window
+
+🚀 Optional Bonus Features
+SMS/Email Notifications
+
+Cloud Sync for Data Backup
+
+Customer Self-Service Portal (Future)
+
+Technician Performance Dashboard
+
+Barcode Scanner Integration (Inventory)
